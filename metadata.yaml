@@ -1,5 +1,5 @@
 _repo: Watch-DogsShip-s-Company-Part-5._10565
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Owen, Will
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '33499'
     url: http://www.gutenberg.org/2009/agents/33499
+covers:
+- cover_type: archival
+  image_path: 10565-h/cover.jpg
 creator:
   author:
     agent_name: Jacobs, W. W. (William Wymark)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1865
     wikipedia: http://en.wikipedia.org/wiki/W._W._Jacobs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10565#Watch-DogsShip-s-Company-Part-5.
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
